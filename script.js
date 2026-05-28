@@ -135,7 +135,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // ===================== TYPING ANIMATION =====================
     const typedText = document.getElementById("typed-text");
     const titles = [
-        "Web Developer",
+        "VibeCode Developer",
         "UI/UX Designer",
         "Graphic Designer",
         "Cybersecurity Enthusiast"
